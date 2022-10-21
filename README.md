@@ -1,4 +1,4 @@
-# Breakdance Condition for Polylang
+# Adding Breakdance conditions for Polylang with the plugin
 Adds the Polylang condition to the Breakdance Template and its elements.
 
 Source code https://pastebin.com/aALYKZkU. I changed the "supports" line.
